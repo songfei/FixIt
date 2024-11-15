@@ -45,6 +45,17 @@ other = "标签"
 
 [posts]
 other = "文章"
+
+[notebooks]
+other = "笔记"
+
+[projects]
+other = "项目"
+
+[essays]
+other = "随笔"
+
+
 # === Taxonomy ===
 
 # === Section ===
